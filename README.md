@@ -18,9 +18,11 @@ Monthly wipe
 
 In the rcon console:
 
-  gather.rate dispenser * 2
-  oxide.grant default furnacesplitter.use
-  stackall 2000
+```
+gather.rate dispenser * 2
+oxide.grant default furnacesplitter.use
+stackall 2000
+```
 
 In oxide/config/MagicLoot.json
 
